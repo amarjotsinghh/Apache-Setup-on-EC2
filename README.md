@@ -1,4 +1,4 @@
-Here’s how you can structure the `README.md` file for the Apache setup bash script on an EC2 instance:
+
 
 ```md
 # Apache Web Server Setup on EC2
